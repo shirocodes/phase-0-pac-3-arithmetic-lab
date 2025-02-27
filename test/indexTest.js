@@ -1,4 +1,5 @@
 require ( './root.js' );
+const { add, subtract, multiply, divide, increment, decrement, makeInt, preserveDecimal } = require('../index');
 
 var a, b
 
